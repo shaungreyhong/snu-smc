@@ -135,7 +135,7 @@ const_replacement_r = {
     'P4.01': 'Lt_P1,P2,P3',
     'P5.01': 'Rt_PCoA',
     'P5.02': 'Rt_Hippocampal_artery',
-    'P5.03': 'Rt_PCA_AnteariorTemporal',
+    'P5.03': 'Rt_PCA_AnteriorTemporal',
     'P5.04': 'Rt_PCA_PosteriorTemporal',
     'P5.05': 'Rt_Parieto_occipital',
     'P5.06': 'Rt_Calcarine',
